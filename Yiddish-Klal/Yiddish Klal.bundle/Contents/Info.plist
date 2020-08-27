@@ -10,8 +10,19 @@
 	<string>1.4</string>
 	<key>KLInfo_Yiddish Klal</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.yiddishklal.yiddishklal</string>
+		<key>TISIntendedLanguage</key>
+		<string>yi</string>
+	</dict>
+	<key>KLInfo_Yiddish Klal Dvorak</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.yiddishklal.yiddishklaldvorak</string>
 		<key>TISIntendedLanguage</key>
 		<string>yi</string>
 	</dict>
